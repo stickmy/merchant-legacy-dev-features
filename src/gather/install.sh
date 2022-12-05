@@ -12,3 +12,5 @@ yarn config set registry https://registry.npm.alibaba-inc.com/
 
 # npm@8 gather installation
 yarn global add tnpm@8 @ali/gather
+
+echo 'registry "https://registry.npm.alibaba-inc.com/"' > ${HOME}/.npmrc
