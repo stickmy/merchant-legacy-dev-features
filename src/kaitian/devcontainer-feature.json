@@ -1,0 +1,6 @@
+{
+    "name": "@ali/kaitian",
+    "id": "kaitian",
+    "version": "1.0.0",
+    "description": "Dev container feature for @ali/kaitian-cli. Requirements: nodejs 12"
+}
