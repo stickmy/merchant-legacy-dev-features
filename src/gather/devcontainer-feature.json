@@ -1,6 +1,6 @@
 {
     "name": "@ali/gather",
     "id": "gather",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Dev container feature for @ali/gather. Requirements: nvm"
 }
